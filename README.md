@@ -21,4 +21,4 @@
 
    
    
-     ![Snake animation](https://github.com/Ogaiht-Attom/Ogaiht-Attom/dist/github-contribution-grid-snake.svg
+     ![Snake animation](https://github.com/Ogaiht-Attom/Ogaiht-Attom/dist/github-contribution-grid-snake.svg)
